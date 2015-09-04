@@ -1,0 +1,23 @@
+{
+    "name": "react-canvas",
+    "version": "0.0.0",
+    "main": "react-canvas.js",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+      "linebreak": "^0.3.0",
+      "scroller": "git://github.com/mjohnston/scroller"
+    }
+}
